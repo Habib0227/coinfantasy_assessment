@@ -1,0 +1,569 @@
+@charset "UTF-8";
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding-top: 30px;
+  overflow: hidden;
+  background-color: white;
+}
+
+
+.navbar li {
+  float:left;
+    border-right: none;
+    height:30px;
+    padding-left:150px;
+    
+}
+
+.navbar{
+background-color:none ;
+color: black;
+padding-bottom:none;
+}
+
+
+ .logo{
+	
+    top:100px;
+    margin: 2px;
+    border-radius: 15%;
+    	
+}
+
+
+
+.navbar2{
+	
+	margin:70px;
+}
+
+
+.coinfantasy_bar{
+	
+	display:flex;
+	position: absolute;
+}
+
+.coinfantasy_bar:hover{
+	
+	color:blue;
+}
+
+
+.list_items li{
+	
+	float: right;
+    height:50px;
+    padding-right:80px;
+    font-family: Oxanium;
+    font-size: 20px;
+    font-weight: 700;
+     line-height: 25px;
+     text-align: left;
+     color:#A09DBE;
+    
+	
+}
+
+.list_items #text1{
+	width: 65px;
+height: 26px;
+font-family: 'Oxanium';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+border-radius: 1px;
+background-color:#7425E2;
+color:white;
+    
+}
+
+
+.list_items ul {
+  list-style-type: none;
+  margin: 0;
+  padding-top: 30px;
+  overflow: hidden;
+  background-color: none;
+  
+}
+ .tokens #img1{
+	    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(40%, -30%);
+}
+
+.tokens #img2{
+position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(120%, -30%);
+}
+
+.main_content{
+	
+	column-count:2;
+	
+	
+}
+
+.box1{
+	
+	
+	color:black;
+	font-family: Oxanium;
+font-size: 40px;
+font-weight: 100;
+line-height: 10px;
+letter-spacing: 0em;
+text-align: left;
+padding-left:20px;
+margin:5px;
+	text-align: left;
+	height:300px;
+}
+
+.box1 h3 mark{
+	
+	background-color: white;
+	
+	color:#7425E2;
+	font-family: Oxanium;
+font-size: 40px;
+font-weight: 200;
+
+letter-spacing: 0em;
+text-align: left;
+
+	
+}
+
+.box1 #para1{
+	font-family: Oxanium;
+	text-align: left;
+	font-size: 25px;
+font-weight: 200;
+padding-top:30px;
+}
+
+#para2{
+	font-family: 'Oxanium';
+font-style: normal;
+font-weight: 100;
+font-size: 15px;
+line-height: 10px;
+padding-top:10px;
+padding-bottom:40px;
+	
+}
+
+.tokens{
+	
+	height:500px;
+	
+}
+
+#img1{
+	
+	position: absolute;
+width: 280px;
+height: 400px;
+left: 813.57px;
+top: 261px;
+transform: rotate(13.82deg);
+	
+}
+
+#img2{
+	
+	position: absolute;
+width: 280px;
+height: 400px;
+left: 1100px;
+top: 320.85px;
+
+transform: rotate(-9.36deg);
+	
+}
+
+#btn1{
+	
+	width: 150px;
+height: 60px;
+font-family: 'Oxanium';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+border-radius: 1px;
+background-color:#7425E2;
+color:white;
+border-radius:20px;
+
+
+}
+
+ .points li{
+	
+	float:left;
+    height:50px;
+    padding-right:50px;
+    font-family: Oxanium;
+    font-size: 20px;
+    font-weight: 700;
+     line-height: 25px;
+     text-align: center;
+     color:#A09DBE;
+     padding-top:19.5px;
+    
+	
+}
+
+.points ul {
+  list-style-type: none;
+  margin: 0;
+  padding-top: 30px;
+  overflow: hidden;
+  background-color: none;
+  
+}
+
+.points li{
+
+
+    border-right: 1px solid black;
+    height:px;
+    }
+    
+    
+    .linear_box {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.heading_linear h2 {
+   position: absolute;
+  top:30%;
+  left: 80%;
+  transform: translate(-490%, -200%);
+  
+}
+
+.logo1{
+   position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-200%, -50%);
+}
+  
+  
+  .logo2{
+  
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-180%, -50%);
+  
+  }
+  
+  
+  .logo3{
+  
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  
+  
+  }
+  
+  
+  .logo4{
+  
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(70%, -50%);
+  
+  }
+  
+  
+  
+.logo5{
+	
+	position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(90%, -50%);
+	
+	
+}
+  
+.jiffy h1 mark{
+	background-color: white;
+	color:blue;
+	
+	
+} 
+  
+  .jiffy{
+  text-align: center;
+  }
+  
+  
+  
+  .container {
+  padding: 64px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both
+}
+
+
+.column-66 {
+  float: left;
+  width: 66.66666%;
+  padding: 20px;
+}
+
+  
+  
+.large-font li{
+	
+	
+    height:30px;
+    padding-right:80px;
+    font-family: Oxanium;
+    font-size: 20px;
+    font-weight:10px ;
+     line-height: 25px;
+     text-align: left;
+     color:#A09DBE;
+  }
+	
+  
+  .xlarge-font mark{
+  
+  background-color: white;
+  color:#30AF9A;
+  padding-left: 40px;
+ 
+  
+  }
+  
+  
+  .xlarge-font{
+  
+   border-left-style: solid;
+   border-left-width: 10px;
+   border-left-color: #30AF9A;
+     
+  }
+  
+  
+  .large-font{
+  
+  border-left-style:ridge;
+  border-left-color: #30AF9A;
+  
+  
+  }
+  
+  
+  
+  .xxlarge-font h1{
+  color:white;
+  position:absolute;
+   top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  
+  }
+  
+  
+   .linear_box1 {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+  
+  .heading_linear2  h1 {
+   position: absolute;
+  top: 150px;
+  left: 600px;
+  }
+  
+  .heading_linear2 mark{
+  
+  background-color: #0F0939;
+  color:#7425E2
+  
+  }
+  
+  .cards_logo{
+   position: absolute;
+  top: 280px;
+  left: 80px;
+  
+  }
+  
+  .cards_logo{
+  
+  position: absolute;
+  top: 250px;
+  left: 80px;
+  }
+  
+  .cards_logo1{
+  
+ position: absolute;
+  top: 190px;
+  left: 800px;
+  
+  }
+  
+  .Future mark{
+  
+  background-color: white;
+  color:#7425E2;
+  }
+  
+  .Future{
+  text-align: center;
+  font-size: 30px;
+  }
+  
+  
+  .faq_heading{
+  
+  font-family: Oxanium;
+font-size: 30px;
+font-weight: 400;
+line-height: 10px;
+letter-spacing: 0em;
+text-align: left;
+color:white;
+  
+  }
+  
+   .FQC_linear {
+  position: relative;
+  color: white;
+}
+  
+ .faq_heading{
+  
+ position: absolute;
+  top: 150px;
+  left: 700px;
+  
+  } 
+  
+  .FAQ_tables table, th, td {
+  border:1px solid black;
+  color:black;
+  width:90%;
+  background-color: #27214C;
+  color:white;
+  
+  
+}
+  .FAQ_tables{
+  
+  position:absolute;
+   top: 300px;
+  left: 400px;
+  
+  
+  }
+  
+  .footer_container{
+  
+   position:absolute;
+   top: 700px;
+  left: -200px;
+  
+  }
+  
+  
+  
+  
+  .logo_icon {
+  position: absolute;
+  top: 800px;
+  left: 650px;
+  }
+  
+  
+  
+  
+  .namelogo{
+  position: absolute;
+  top: 780px;
+  left: 690px;
+  
+  }
+  
+  
+  .small_text{
+  
+  position: absolute;
+  top: 850px;
+  left: 600px;
+  
+  
+  }
+  
+  
+  
+  .instagram{
+   position: absolute;
+  top: 920px;
+  left: 600px;
+  
+  }
+  
+  .facebook{
+   position: absolute;
+  top: 920px;
+  left: 670px;
+  
+  }
+  
+  .twitter{
+  
+  position: absolute;
+  top: 920px;
+  left: 750px;
+  
+  }
+  
+  .youtube{
+  
+   position: absolute;
+  top: 920px;
+  left: 830px;
+  }
+  
+  
+  .linkedin{
+  
+   position: absolute;
+  top: 920px;
+  left: 920px;
+  }
+  
+  
+  
+  
+  
+  
+  
